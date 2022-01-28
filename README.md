@@ -180,7 +180,7 @@ h1{
 ```
 
 ## OUTPUT
-![OUTPUT](image.jpg)
+![OUTPUT](math_cals.jpg)
 
 ## Result:
 
